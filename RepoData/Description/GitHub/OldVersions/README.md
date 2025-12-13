@@ -1,0 +1,1 @@
+🏠🌐️ The official source repository for the website of the VOI Manor project, an source phone call client. Not to be confused with a VoIP call service. It also doesn't phone home (use telemetry/collect user data)
